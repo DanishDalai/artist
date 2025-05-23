@@ -9,7 +9,7 @@ const inter = Inter({
 
 export const metadata = {
   title: "Danish Dalai | Art Portfolio",
-  description: "Minimalist portfolio showcasing cartoon art and illustrations",
+  description: "Minimalist portfolio showcasing illustrations and arts",
 };
 
 export default function RootLayout({
