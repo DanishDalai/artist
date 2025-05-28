@@ -11,7 +11,7 @@ const portfolioItems = [
     id: 1,
     title: "Abstract Blue Room",
     description: "Vibrant blue interior with artistic elements",
-    image: "/placeholder.svg?height=600&width=600",
+    image: "/public/Still_Life_3_Sketch.jpg",
     category: "Interior",
   },
   {
